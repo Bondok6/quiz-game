@@ -1,5 +1,11 @@
 # Quiz Game App
 
+## Clone the project
+```
+git clone git@github.com:Bondok6/quiz-game.git
+cd quiz-game
+```
+
 ## Project setup
 ```
 npm install
