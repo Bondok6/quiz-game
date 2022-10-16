@@ -1,4 +1,4 @@
-# aligngame
+# Quiz Game App
 
 ## Project setup
 ```
