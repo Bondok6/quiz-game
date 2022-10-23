@@ -1,5 +1,7 @@
 # Quiz Game App
 
+> Simple Quiz Game App, Built with Vue.js
+
 ## [Live Demo Link](https://quiz-game-lovat.vercel.app/)
 
 ## Clone the project
